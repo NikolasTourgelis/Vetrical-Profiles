@@ -1,6 +1,1 @@
-# Welcome to GitHub Desktop!
-
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
-Nikolaos Tourgelis
+ These are Vertical Profiles about various meteorological parameters. This research is based on my thesis i did in the Department of Physics, UOAthens (Comparing meteorological parameters in the planetary boundary layer between the 2 biggest cities in Greece: Athens and Thessaloniki)
